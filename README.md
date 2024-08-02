@@ -54,5 +54,5 @@ this is the image data of how these landmarks look connected
 
 
 
-we then pygoutai
+we then import pyautogui which has all the mouse functions in it we can write code to replace the mouse functions with our hand landmarks mapped out mediapipe
 
